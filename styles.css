@@ -1,0 +1,23 @@
+*{
+width: auto;
+box-sizing: border-box;
+margin:0 0;
+padding: 0;
+}
+
+.banner {
+
+width: 100%;
+height: 297px;
+display: flex;
+}
+
+.menuprincipal {
+
+background-color:#5A8A5F;
+width: auto;
+height: 80px;
+display: flex;
+justify-content: space-around;
+
+}
